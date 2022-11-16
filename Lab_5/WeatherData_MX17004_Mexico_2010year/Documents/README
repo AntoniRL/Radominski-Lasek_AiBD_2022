@@ -1,0 +1,21 @@
+Antoni Radomiński-Lasek 407290
+
+Kroki pozwalające odtwożyć pożądkowanie pliku weather.txt
+1) Za pomocą aplikacji microsoft excel wyeksportowaćplik do pliku .csv (instrukcje w 'The Metadata Guide.txt')
+2) Odpalić plik report.iptnb który oczyszcza i pożądkuje dane
+3) Można przystąpić do analizy danych
+
+Struktura katalogów:
+
+(folder) WeatherData_MX17004_Mexico_2010year
+    (folder) Analisis Data
+        clear_weather.csv       # plik gotowy do pracy, uporządkowane dane
+    (folder) Command Files
+        report.ipynb            # skrypt porządkujący dane
+    (folder) Documents
+        README                  # opis
+    (folder) Oryginal Data
+        weather.txt             # oryginalne dane
+        weather_to_work.csv     # dane przeniesione do pliku csv podzielone na kolumny
+        (folder) Metadata
+            The Metadata Guide.txt  # plik opisujący dane z folderu Oryginal Data
