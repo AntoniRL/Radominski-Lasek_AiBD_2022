@@ -1,0 +1,1 @@
+Plik jest pusty aby zobrazować, że powinnien totaj istnieć ale data Apendix jest zrobiony w folderze data apendix a dane są uporządkowane więc nie trzeba tego robić.

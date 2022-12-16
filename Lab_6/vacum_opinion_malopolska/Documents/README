@@ -1,0 +1,19 @@
+Antoni Radomiński-Lasek 407290
+
+Kroki pozwalające odtwożyć pożądkowanie pliku weather.txt
+Dane dostaliśmhy już upożądkowane, jedynymi operacjami które zostały zrobione było w pliku Appendix.ipynb opisanie wszytkich zmiennych.
+
+Struktura katalogów:
+
+(folder) vacum_opinion_malopolska
+    (folder) Analisis Data
+        5_MALOPOLSKIE.csv       # plik gotowy do pracy, uporządkowane dane
+    (folder) Command Files
+        command file.txt        # pusty dokument w którym można pracować z danymi
+    (folder) Documents
+        README                  # opis
+        Appendix.ipynb          # plik opisujący każdą ze zmiennych
+    (folder) Oryginal Data
+        5_MALOPOLSKIE.csv       # oryginalne dane
+        (folder) Metadata
+            Metadata_guide.txt  # plik opisujący dane z folderu Oryginal Data
